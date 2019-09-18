@@ -39,13 +39,8 @@ email: none
 avatar: https://avatars2.githubusercontent.com/u/54790610?s=400&v=4
 
 # You'll want to customize url and baseurl for your own site:
-<<<<<<< HEAD
-baseurl: "/JekyII_Prologue_2" # the subpath of your site, e.g. /blog
+baseurl: "/JekyII_Prologue_2/" # the subpath of your site, e.g. /blog
 url: "http://zoepan00.github.io" # the base hostname & protocol for your site
-=======
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
->>>>>>> ca017149e3d5034bf725e124091233df40e4dac7
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
